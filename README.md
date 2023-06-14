@@ -1,6 +1,6 @@
 # paypal-braintree-test-client
 
-Sample Braintree and Paypal(Advance Integration) client
+Sample [Braintree](https://developer.paypal.com/braintree/docs/start/overview) and Paypal(Advance Integration) client
 
 create `.env` file in root directory
 

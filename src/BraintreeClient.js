@@ -20,7 +20,7 @@ export default function BraintreeClient() {
 
     const getClientToken = async () => {
         const res = await fetch(`${baseURL}/token`) 
-        return res.body;
+        return await res.text();
     }
 
     useEffect(() => {

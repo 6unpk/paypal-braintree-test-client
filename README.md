@@ -20,4 +20,4 @@ npm run start
 npm run server
 ```
 
-run test on `localhost:5174/braintree` or `localhost:3000/paypal`
+run test on `localhost:5174/braintree` or `localhost:5174/paypal`
